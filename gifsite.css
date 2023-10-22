@@ -47,16 +47,19 @@ p {
   background-size: cover;
 }
 #gift-img-happy:hover {
-  background-image: url('image/happy.gif');
+  background-image: url('image/hbd.gif');
 }
-#gift-img-seductive:hover {
-  background-image: url('image/shock.gif');
+#gift-img-tulips:hover {
+  background-image: url('image/tulips.gif');
 }
-#gift-img-genius:hover {
-  background-image: url('image/genius.gif');
+#gift-img-kiss1:hover {
+  background-image: url('image/kiss.gif');
+  width: 500px;
 }
-#gift-img-badass:hover {
-  background-image: url('https://media.giphy.com/media/TT7JW4Qm7uaNW/giphy.gif');
+#gift-img-letter:hover {
+  background-image: url('image/Letter.png');
+  width: 400px;
+  height: 600px;
 }
 .gift-section {
   margin-top: 50px;
@@ -68,9 +71,11 @@ p {
 .gift-hint {
   margin-top: 0;
 }
-#gift-img-cheers {
-  height: 200px;
-}
+
 #gift-img-cheers:hover {
-  background-image: url('https://media.giphy.com/media/3o6ZsUJ44ffpnAW7Dy/giphy.gif');
+  background-image: url('image/iloveyou.gif');
+}
+
+#gift-img-kiss:hover {
+  background-image: url('image/kisss.gif');
 }

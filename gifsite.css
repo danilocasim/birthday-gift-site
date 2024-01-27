@@ -2,8 +2,9 @@ body {
   color: #ffffff;
   background-color: #a2d2ff;
   text-align: center;
-  font-family: 'Happy Monkey', cursive;
+  font-family: "Happy Monkey", cursive;
 }
+
 #pic {
   border: 6px solid #efb0c9;
   border-radius: 50%;
@@ -43,24 +44,29 @@ p {
   width: 400px;
   height: 400px;
   border-radius: 10px;
-  background-image: url('image/gift-cover.jpg');
+  background-image: url("image/gift-cover.jpg");
   background-size: cover;
 }
+
 #gift-img-happy:hover {
-  background-image: url('image/hbd.gif');
+  background-image: url("image/hbd.gif");
 }
+
 #gift-img-tulips:hover {
-  background-image: url('image/tulips.gif');
+  background-image: url("image/tulips.gif");
 }
+
 #gift-img-kiss1:hover {
-  background-image: url('image/kiss.gif');
+  background-image: url("image/kiss.gif");
   width: 500px;
 }
+
 #gift-img-letter:hover {
-  background-image: url('image/Letter.png');
+  background-image: url("image/Letter.png");
   width: 400px;
   height: 600px;
 }
+
 .gift-section {
   margin-top: 50px;
 }
@@ -68,14 +74,15 @@ p {
 .gift-title {
   margin-bottom: 10px;
 }
+
 .gift-hint {
   margin-top: 0;
 }
 
 #gift-img-cheers:hover {
-  background-image: url('image/iloveyou.gif');
+  background-image: url("image/iloveyou.gif");
 }
 
 #gift-img-kiss:hover {
-  background-image: url('image/kisss.gif');
+  background-image: url("image/kisss.gif");
 }
